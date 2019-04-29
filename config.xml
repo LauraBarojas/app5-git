@@ -34,6 +34,6 @@ Laura Barojas Arias
 <!-- Third part plugins -->
 
 <!-- Colocar icono app -->
-<icon src=""/>
+<icon src="res/android/mdpi.png"/>
 
 </widget>
